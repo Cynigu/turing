@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZxUprvnUP7tp5qw0N6mhMWCwqBT+F89Uya6wsne6ebIN6W1i0JjYaJZ2LOTixF1C3S9mNUKePhMEOB+APA9Mow==",
+  "success": true,
+  "projectFilePath": "D:\\Яндекс.Диск\\YandexDisk\\UNIVERS\\4 семестр\\мат логика и теория алгоритмов (Козлов)\\Плонский\\тьюринг\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isavo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

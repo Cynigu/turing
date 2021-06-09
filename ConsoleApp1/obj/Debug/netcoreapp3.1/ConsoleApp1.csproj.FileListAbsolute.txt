@@ -1,0 +1,13 @@
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Яндекс.Диск\YandexDisk\UNIVERS\4 семестр\мат логика и теория алгоритмов (Козлов)\Плонский\тьюринг\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
